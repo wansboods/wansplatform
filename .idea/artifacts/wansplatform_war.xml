@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wansplatform:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="wansplatform.war">
+      <element id="artifact" artifact-name="wansplatform:war exploded" />
+    </root>
+  </artifact>
+</component>
